@@ -1,2 +1,3 @@
 # cybertrans
-一些重要的网络安全作品原创翻译
+- [AVSS白皮书1.0](https://liyansong2018.github.io/cybertrans/blogs/AVSSWhitePaper/AVSSWhitePaperReleasedv10_zh)
+
