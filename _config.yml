@@ -1,4 +1,6 @@
 theme: jekyll-theme-primer
 
-title: Cyber Trans
+title: cyber trans
 description: 一些重要的网络安全作品原创翻译
+
+show_downloads: true
