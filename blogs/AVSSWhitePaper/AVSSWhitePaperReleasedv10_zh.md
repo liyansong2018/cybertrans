@@ -425,6 +425,6 @@ IoT产品：AVSS评估在验证连接设备的安全性方面发挥着至关重�
 为此，我们联合合作伙伴正式发布AVSS 1.0版本。
 
 <div style="text-align: right;">
-    原文：<a href="https://www.avss.sg/">ADVERSARIAL VULNERABILITY SCORING SYSTEM WHITE PAPER v1.0<a></a><br />
+    原文：<a href="https://www.avss.sg/">ADVERSARIAL VULNERABILITY SCORING SYSTEM WHITE PAPER v1.0</a><br />
     翻译：请提交issue帮助我们更好的改进 <a href="https://github.com/liyansong2018/cybertrans/issues">issue@liyansong2018</a>
 </div>
